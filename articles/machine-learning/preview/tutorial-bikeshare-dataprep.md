@@ -293,7 +293,7 @@ To use the data in a prediction for two-hour time blocks, you must compute the a
    > [!IMPORTANT]
    > On Mac, follow the following step instead of __step 8__ below.
    >
-   > * Go to the first cell that contains `Feb 01, 2015 12AM-2AM`. It should be the __row 15__. Correct the value to `Jan 02, 2015 12AM-2AM`, and press __Enter__. 
+   > * Go to the first cell that contains `Feb 01, 2015 12AM-2AM`. It should be the __row 25__. Correct the value to `Jan 02, 2015 12AM-2AM`, and press __Enter__. 
    
 
 8. Wait for the status to change from **Analyzing Data** to **Review next suggested row**. This may take several seconds. Select the status link to navigate to the suggested row. 
